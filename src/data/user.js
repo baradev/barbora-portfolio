@@ -14,19 +14,20 @@ const INFO = {
 
 	homepage: {
 		title: "Full-stack software developer, and amateur sourdough baker.",
-		description: "I am software developer...",
+		description:
+			"I am software developer pasionate about building apps in NextJS and I love experimenting with Amazon Connect.",
 	},
 
 	about: {
-		title: "I’m Barbora. I live in Auckland NewZealanad.",
+		title: "I’m Barbora. I live in Auckland, New Zealand.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"During the last year, I've worked on a range of projects, and I'm proud of the progress achieved. A number of these projects are open-source. If any of these projects interest you, please feel free to take a look at the code and suggest any improvements or enhancements you think could be made. Collaborating with others is a valuable way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "I am enthusiastic about promoting a growth mindset and encouraging others to chase their dreams.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Collection of my thoughts on self-development, programming, changing careers and more.",
 	},
 
 	projects: [
