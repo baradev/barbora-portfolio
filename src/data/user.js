@@ -19,9 +19,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Barbora. I live in Auckland.",
+		title: "I am Barbora. I live in Auckland.",
 		description:
-			"During the last year, I've worked on a range of projects, and I'm proud of the progress achieved. A number of these projects are open-source. If any of these projects interest you, please feel free to take a look at the code and suggest any improvements or enhancements you think could be made. Collaborating with others is a valuable way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I am a full-stack developer with expertise in Next.js. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies. Additionally, I am passionate about AWS Cloud, love experimenting with Amazon Connect, and hold an AWS Solution Architect Certification.",
 	},
 
 	articles: {
