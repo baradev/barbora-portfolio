@@ -11,7 +11,6 @@ import {
 	faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 
-import Logo from "../components/common/logo";
 import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
@@ -84,9 +83,7 @@ const Homepage = () => {
 				<NavBar active="home" />
 				<div className="content-wrapper">
 					<div className="homepage-logo-container">
-						<div style={logoStyle}>
-							<Logo width={logoSize} link={false} />
-						</div>
+						<div style={logoStyle}></div>
 					</div>
 
 					<div className="homepage-container">
