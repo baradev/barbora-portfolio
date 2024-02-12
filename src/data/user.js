@@ -51,30 +51,30 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "LinkedIn Lookup in Gmail",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"This Tampermonkey extension script adds user icons to both the email sender and recipient(s). The user icons allow for easy LinkedIn searches by name.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/baradev/tampermonkey-linkedin-lookup",
 		},
 
 		{
-			title: "Project 4",
+			title: "Rainbow Xylophone",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This project demonstrates my understanding of JavaScript, DOM, and functions.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://baradev.github.io/rainbow-xylophone/",
 		},
 
 		{
-			title: "Project 5",
+			title: "Simon Game",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Simon is a pattern game that demonstrates my understanding of JavaScript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://baradev.github.io/simon/",
 		},
 	],
 };
