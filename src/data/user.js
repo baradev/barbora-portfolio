@@ -32,6 +32,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Meal Planning App",
+			description:
+				"React app with  Node.js on the backend. Other used technologies include Typescript, Auth0, an External API, Tailwind, and a SQLite database.",
+			logo: "https://www.cdnlogo.com/logos/r/63/react.svg",
+			linkText: "View Project",
+			link: "https://github.com/baradev/mealEasy",
+		},
+		{
 			title: "Habit Tracker",
 			description:
 				"Habit Tracker is a Next.js app that allows its users to track their habits. Skills applied include Tailwind CSS, HTML, TypeScript, React, Next.js, and deployment on Vercel.",
@@ -74,7 +82,7 @@ const INFO = {
 				"Simon is a pattern game that demonstrates my understanding of JavaScript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://baradev.github.io/simon/",
+			link: "https://baradev.github.io/Simon-Game/",
 		},
 	],
 };

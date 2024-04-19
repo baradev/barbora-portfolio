@@ -27,17 +27,18 @@ function article_1() {
 							<section>
 								<p>
 									My journey at Dev Academy reached its peak
-									with a seven-week project. Together with my
-									team, our aim was to create a project that
-									captured all the knowledge and skills we had
-									gained over the past four months.
+									with a seven-week project. As a team of
+									three members, our aim was to create a
+									project that captured all the knowledge and
+									skills we had gained over the past four
+									months.
 								</p>
 								<p>
 									Our team's objective was clear: develop a
-									meal planning app tailored to the needs of
-									busy individuals, streamlining daily
-									routines.
+									meal planning app that makes daily routines
+									more efficient.
 								</p>
+
 								<h3>PLANNING</h3>
 								<p>
 									Planning was the most crucial aspect of our
@@ -54,6 +55,11 @@ function article_1() {
 									account creation, recipe selection, and
 									storage for future use.
 								</p>
+								<img
+									src="/appFrontPage.png"
+									alt="Landing Page"
+									style={{ width: "800px", height: "auto" }}
+								/>
 								<h3>TECH STACK</h3>
 								<p>
 									Regarding technology, we used TypeScript as
