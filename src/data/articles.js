@@ -2,6 +2,103 @@ import React from "react";
 
 function article_1() {
 	return {
+		date: "20 April 2024",
+		title: "Meal Planning App - Dev Academy Final Project",
+		description: "Will my App make people's live easier?",
+		keywords: [],
+		style: `
+				.article-content {
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+				}
+
+				.randImage {
+					align-self: center;
+					outline: 2px solid red;
+				}
+				`,
+		body: (
+			<React.Fragment>
+				<div className="article-content">
+					<div className="paragraph">
+						{" "}
+						<article>
+							<section>
+								<p>
+									My journey at Dev Academy reached its peak
+									with a seven-week project. Together with my
+									team, our aim was to create a project that
+									captured all the knowledge and skills we had
+									gained over the past four months.
+								</p>
+								<p>
+									Our team's objective was clear: develop a
+									meal planning app tailored to the needs of
+									busy individuals, streamlining daily
+									routines.
+								</p>
+								<h3>PLANNING</h3>
+								<p>
+									Planning was the most crucial aspect of our
+									entire project. We aimed to ensure that we
+									had everything under control before diving
+									into coding. This involved considering
+									numerous potential scenarios, creating
+									wireframes, designing database diagrams, and
+									defining the user interface.
+								</p>
+								<h3>MVP - Minimum Viable Product</h3>
+								<p>
+									Our MVP was a user-friendly app allowing
+									account creation, recipe selection, and
+									storage for future use.
+								</p>
+								<h3>TECH STACK</h3>
+								<p>
+									Regarding technology, we used TypeScript as
+									a programming language, Node.js for the
+									backend, SQLite for database management, and
+									ReactJS with Tailwind for the front end
+									Authentication was integrated using Auth0.
+								</p>
+								<h3>CHALLENGES</h3>
+								<p>
+									Despite our preparations, we faced some
+									challenges, especially when setting up the
+									database for the app's complexity. But
+									dealing with these obstacles was a valuable
+									learning opportunity, strengthening our
+									problem-solving skills.
+								</p>
+								<h3>NEXT STEPS</h3>
+								<p>
+									Looking ahead, we're excited to deploy the
+									project and expand its features, including
+									adding new recipes, incorporating budgeting
+									tools, and integrating calorie tracking.
+									Additionally, we're considering
+									transitioning to a different database system
+									to overcome SQLite's limitations.
+								</p>
+								<p>
+									Reflecting on this experience, I'm grateful
+									for the growth it has afforded me, not only
+									in technical skills but also in
+									communication and teamwork. It's been a
+									rewarding journey.
+								</p>
+							</section>
+						</article>
+					</div>
+				</div>
+			</React.Fragment>
+		),
+	};
+}
+
+function article_2() {
+	return {
 		date: "8 January 2023",
 		title: "Emotional Intelligence",
 		description: "What it is and why it is important?",
@@ -56,7 +153,7 @@ function article_1() {
 	};
 }
 
-function article_2() {
+function article_3() {
 	return {
 		date: "30 January 2024",
 		title: "Neuroplasticity and Growth Mindset",
@@ -130,6 +227,6 @@ function article_2() {
 	};
 }
 
-const myArticles = [article_1, article_2];
+const myArticles = [article_1, article_2, article_3];
 
 export default myArticles;
