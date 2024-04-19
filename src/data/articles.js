@@ -27,9 +27,9 @@ function article_1() {
 							<section>
 								<p>
 									My journey at Dev Academy reached its peak
-									with a seven-week project. As a team of
-									three members, our aim was to create a
-									project that captured all the knowledge and
+									with a seven-week final project. As a team
+									of three members, our aim was to create a
+									product that captured all the knowledge and
 									skills we had gained over the past four
 									months.
 								</p>
@@ -68,6 +68,41 @@ function article_1() {
 									ReactJS with Tailwind for the front end
 									Authentication was integrated using Auth0.
 								</p>
+								<div style={{ display: "flex", gap: "30px" }}>
+									<img
+										src="/cdnlogo.com_react.svg"
+										alt="React"
+										style={{
+											width: "80px",
+											height: "auto",
+										}}
+									/>
+									<img
+										src="/cdnlogo.com_typescript.svg"
+										alt="Typescript"
+										style={{
+											width: "80px",
+											height: "auto",
+										}}
+									/>
+									<img
+										src="/cdnlogo.com_nodejs-icon.svg"
+										alt="Node"
+										style={{
+											width: "80px",
+											height: "auto",
+										}}
+									/>
+									<img
+										src="/cdnlogo.com_auth0.svg"
+										alt="AuthO"
+										style={{
+											width: "80px",
+											height: "auto",
+										}}
+									/>
+								</div>
+
 								<h3>CHALLENGES</h3>
 								<p>
 									Despite our preparations, we faced some

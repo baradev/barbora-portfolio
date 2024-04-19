@@ -13,15 +13,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack software developer, and amateur sourdough baker.",
+		title: "Full-stack software developer.",
 		description:
-			"I am software developer pasionate about building apps in NextJS and I love experimenting with Amazon Connect.",
+			"Hello there! I am Barbora, software developer with passion for desing and AWS.",
 	},
 
 	about: {
 		title: "I am Barbora. I live in Auckland.",
 		description:
-			"I am a full-stack developer with expertise in Next.js. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies. Additionally, I am passionate about AWS Cloud, love experimenting with Amazon Connect, and hold an AWS Solution Architect Certification.",
+			"I enjoy working with Next.js. I am detail-oriented and enjoy styling user interfaces. I have experience with Tailwind, Node.js, React, TypeScript, and more. I am passionate about the AWS Cloud, love experimenting with Amazon Connect, and hold an AWS Solutions Architect Certification.",
 	},
 
 	articles: {
