@@ -26,126 +26,126 @@ function article_1() {
 						<article>
 							<section>
 								<p>
-									My journey at Dev Academy reached its peak
-									with a seven-week final project. As a team
-									of three members, our aim was to create a
-									product that captured all the knowledge and
-									skills we had gained over the past four
-									months.
+									To get a taste of a real delivery project,
+									we were split into teams of four. Our task
+									was to make a project using the skills we
+									gained over the past 4 months. My team
+									decided to build a project that addresses a
+									real issue we all face on a regular basis -
+									meal planning.
 								</p>
-								<h3>THE IDEA</h3>
+								<h3>Meal Easy</h3>
 								<p>
-									Experiencing the nightly challenge of meal
-									decisions as busy parents, we recognized the
-									need for a solution. We aimed to develop an
-									app to streamline meal planning, save time,
-									and foster creativity and variety in our
-									dinners.
+									We designed MealEasy to help busy parents
+									with planning weekly dinners. Since our
+									project is here to save time, we wanted it
+									to be super simple to use. There are
+									essentially only two steps to it:
+								</p>
+								<ol>
+									<li>Select your dietary requirements.</li>
+									<li>
+										Get recipe recommendations for the week
+										ahead.
+									</li>
+								</ol>
+								<p>
+									As our stretch goal, we set out to have a
+									shopping list for all recipes in the current
+									week.
 								</p>
 
-								<h3>PLANNING</h3>
-								<p>
-									Planning was the most crucial aspect of our
-									entire project. We aimed to ensure that we
-									had everything under control before diving
-									into coding. This involved considering
-									numerous potential scenarios, creating
-									wireframes, designing database diagrams, and
-									defining the user interface. During this
-									phase, I took on the roles of product owner
-									and styling lead. I collaborated closely
-									with Katie, our frontend lead, and Sukh, who
-									led our backend development. Together, we
-									formed a dynamic team driving the project
-									forward.
-								</p>
-								<h3>MVP - Minimum Viable Product</h3>
-								<p>
-									Our MVP was a user-friendly app allowing
-									account creation, recipe selection, and
-									storage for future use.
-								</p>
-								<img
-									src="/appFrontPage.png"
-									alt="Landing Page"
-									style={{ width: "800px", height: "auto" }}
-								/>
-								<h3>TECH STACK</h3>
-								<p>
-									In our tech stack, we used TypeScript as our
-									programming language. Node.js served as the
-									foundation for our server-side logic. For
-									database management, we choosed SQLite. On
-									the frontend, we utilized ReactJS along with
-									Tailwind CSS to build a sleek and responsive
-									user interface. To ensure secure user
-									authentication, we integrated Auth0 into our
-									application.
-								</p>
-								<div style={{ display: "flex", gap: "30px" }}>
+								<div style={{ textAlign: "center" }}>
 									<img
-										src="/cdnlogo.com_react.svg"
-										alt="React"
+										src="/appFrontPage.png"
+										alt="Landing Page"
 										style={{
-											width: "50px",
-											height: "auto",
-										}}
-									/>
-									<img
-										src="/cdnlogo.com_typescript.svg"
-										alt="Typescript"
-										style={{
-											width: "50px",
-											height: "auto",
-										}}
-									/>
-									<img
-										src="/cdnlogo.com_nodejs-icon.svg"
-										alt="Node"
-										style={{
-											width: "50px",
-											height: "auto",
-										}}
-									/>
-									<img
-										src="/cdnlogo.com_auth0.svg"
-										alt="AuthO"
-										style={{
-											width: "50px",
+											width: "800px",
 											height: "auto",
 										}}
 									/>
 								</div>
 
-								<h3>CHALLENGES</h3>
+								<h3>Our Journey</h3>
 								<p>
-									Despite our preparations, we faced some
-									challenges, especially when setting up the
-									database for the app's complexity. But
-									dealing with these obstacles was a valuable
-									learning opportunity, strengthening our
-									problem-solving skills. Additionally, we
-									encountered the unexpected challenge of a
-									team member leaving, which meant we had to
-									rearrange our tasks. However, we adapted
-									swiftly and ensured our project continued
-									without interruption.
+									After having our goal, we set out to plan. I
+									quickly learned the major challenges aren't
+									going to be technical, meal planning itself
+									meant different things to each of us. Before
+									building anything, we created a solid plan
+									and made sure we're all on the same page.
+									Using agile and regular check ups, we also
+									made sure no one is going down a rabbit hole
+									and everyone remains focused on our Minimum
+									Viable Product (MVP). During this project I
+									got to wear multiple hats. At one point I
+									was a project manager, making sure the tasks
+									are being reviewed and completed on time.
+									Another time I was a UX designer, making
+									wireframes, creating customer scenarios and
+									defining our style guide. All these
+									different experiences helped me understand
+									what it REALLY takes to make good software
+									(it's not just about good code).
 								</p>
-								<h3>NEXT STEPS</h3>
+
+								<h3>Under the hood</h3>
 								<p>
-									Looking ahead, we're excited to deploy the
-									project and expand its features, including
-									adding new recipes, incorporating budgeting
-									tools, and integrating calorie tracking.
-									Additionally, we're considering
-									transitioning to a different database system
-									to overcome SQLite's limitations.
+									MealEasy is a web application written in
+									ReactJS and TypeScript. Our backend API is
+									powered by Express.js and we store all our
+									data in a SQLite database. For user
+									management and authentication we're using
+									Auth0. The UI components come from Tailwind
+									CSS and DaisyUI. All recipes come from a
+									third-party API (Edamam.com).
 								</p>
+								<div style={{ textAlign: "center" }}>
+									<img
+										src="/diagram.png"
+										alt="Landing Page"
+										style={{
+											width: "800px",
+											height: "auto",
+										}}
+									/>
+								</div>
+
+								<h3>Challenges</h3>
 								<p>
-									Reflecting on this experience, I'm grateful
-									for the growth it has afforded me, not only
-									in technical skills but also in
-									communication and teamwork.
+									Even with all our preparations, we faced
+									some challenges. A major obstacle was when
+									one team member had to leave, which left us
+									short-handed. Another challenge was our data
+									structure. How do we go from a recipe in
+									Edamam.com all the way to displaying it in
+									our list of recipes in the UI? Despite these
+									challenges, we adapted swiftly and ensured
+									our project continued without interruption.
+									We also managed to deliver ALL of our
+									stretch goals!
+								</p>
+
+								<h3>Whats's next?</h3>
+								<p>
+									We're working on deploying the project and
+									adding more features, such as adding custom
+									new recipes, managing budgets, and calorie
+									tracking.
+								</p>
+
+								<h3>Conclusion</h3>
+								<p>
+									This project, and the last 4 months in
+									DevAcademy provided me with great learnings
+									I wasn't able to get elsewhere. I met some
+									great people, students and teachers both. I
+									learned what it means to work as a team,
+									supporting each other and leveraging each
+									others' strengths. And most importantly, I
+									now understand that challenges aren't
+									usually about the technical stuff. It's more
+									about how people interact and work together.
 								</p>
 							</section>
 						</article>
