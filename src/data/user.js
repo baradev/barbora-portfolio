@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack software developer.",
 		description:
-			"Hello there! I am Barbora, software developer with passion for front-end, design and AWS cloud.",
+			"Hello there! I am Barbora, software developer with passion for frontend, design and AWS cloud.",
 	},
 
 	about: {
@@ -36,8 +36,8 @@ const INFO = {
 			description:
 				"React app with  Node.js on the backend. Other used technologies include Typescript, Auth0, an External API, Tailwind, and a SQLite database.",
 			logo: "https://www.cdnlogo.com/logos/r/63/react.svg",
-			linkText: "View Project",
-			link: "https://github.com/baradev/mealEasy",
+			// linkText: "View Project",
+			// link: "https://github.com/baradev/mealEasy",
 		},
 		{
 			title: "Habit Tracker",
