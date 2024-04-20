@@ -33,6 +33,7 @@ function article_1() {
 									skills we had gained over the past four
 									months.
 								</p>
+								<h3>THE IDEA</h3>
 								<p>
 									Our team's objective was clear: develop a
 									meal planning app that makes daily routines
@@ -47,7 +48,10 @@ function article_1() {
 									into coding. This involved considering
 									numerous potential scenarios, creating
 									wireframes, designing database diagrams, and
-									defining the user interface.
+									defining the user interface. My role was the
+									product owner and styling lead, while my
+									team mate Katie was fantastic frontend lead
+									and Sukh was the backend lead.
 								</p>
 								<h3>MVP - Minimum Viable Product</h3>
 								<p>
@@ -77,7 +81,7 @@ function article_1() {
 										src="/cdnlogo.com_react.svg"
 										alt="React"
 										style={{
-											width: "80px",
+											width: "50px",
 											height: "auto",
 										}}
 									/>
@@ -85,7 +89,7 @@ function article_1() {
 										src="/cdnlogo.com_typescript.svg"
 										alt="Typescript"
 										style={{
-											width: "80px",
+											width: "50px",
 											height: "auto",
 										}}
 									/>
@@ -93,7 +97,7 @@ function article_1() {
 										src="/cdnlogo.com_nodejs-icon.svg"
 										alt="Node"
 										style={{
-											width: "80px",
+											width: "50px",
 											height: "auto",
 										}}
 									/>
@@ -101,7 +105,7 @@ function article_1() {
 										src="/cdnlogo.com_auth0.svg"
 										alt="AuthO"
 										style={{
-											width: "80px",
+											width: "50px",
 											height: "auto",
 										}}
 									/>
