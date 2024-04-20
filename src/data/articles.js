@@ -35,9 +35,12 @@ function article_1() {
 								</p>
 								<h3>THE IDEA</h3>
 								<p>
-									Our team's objective was clear: develop a
-									meal planning app that makes daily routines
-									more efficient.
+									Experiencing the nightly challenge of meal
+									decisions as busy parents, we recognized the
+									need for a solution. We aimed to develop an
+									app to streamline meal planning, save time,
+									and foster creativity and variety in our
+									dinners.
 								</p>
 
 								<h3>PLANNING</h3>
@@ -48,10 +51,13 @@ function article_1() {
 									into coding. This involved considering
 									numerous potential scenarios, creating
 									wireframes, designing database diagrams, and
-									defining the user interface. My role was the
-									product owner and styling lead, while my
-									team mate Katie was fantastic frontend lead
-									and Sukh was the backend lead.
+									defining the user interface. During this
+									phase, I took on the roles of product owner
+									and styling lead. I collaborated closely
+									with Katie, our frontend lead, and Sukh, who
+									led our backend development. Together, we
+									formed a dynamic team driving the project
+									forward.
 								</p>
 								<h3>MVP - Minimum Viable Product</h3>
 								<p>
@@ -118,7 +124,12 @@ function article_1() {
 									database for the app's complexity. But
 									dealing with these obstacles was a valuable
 									learning opportunity, strengthening our
-									problem-solving skills.
+									problem-solving skills. Additionally, we
+									encountered the unexpected challenge of a
+									team member leaving, which meant we had to
+									rearrange our tasks. However, we adapted
+									swiftly and ensured our project continued
+									without interruption.
 								</p>
 								<h3>NEXT STEPS</h3>
 								<p>
