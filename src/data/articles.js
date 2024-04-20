@@ -62,11 +62,15 @@ function article_1() {
 								/>
 								<h3>TECH STACK</h3>
 								<p>
-									Regarding technology, we used TypeScript as
-									a programming language, Node.js for the
-									backend, SQLite for database management, and
-									ReactJS with Tailwind for the front end
-									Authentication was integrated using Auth0.
+									In our tech stack, we used TypeScript as our
+									programming language. Node.js served as the
+									foundation for our server-side logic. For
+									database management, we choosed SQLite. On
+									the frontend, we utilized ReactJS along with
+									Tailwind CSS to build a sleek and responsive
+									user interface. To ensure secure user
+									authentication, we integrated Auth0 into our
+									application.
 								</p>
 								<div style={{ display: "flex", gap: "30px" }}>
 									<img
@@ -126,8 +130,7 @@ function article_1() {
 									Reflecting on this experience, I'm grateful
 									for the growth it has afforded me, not only
 									in technical skills but also in
-									communication and teamwork. It's been a
-									rewarding journey.
+									communication and teamwork.
 								</p>
 							</section>
 						</article>
