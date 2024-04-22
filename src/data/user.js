@@ -43,10 +43,18 @@ const INFO = {
 			title: "Habit Tracker",
 			description:
 				"Habit Tracker is a Next.js app that allows its users to track their habits. Skills applied include Tailwind CSS, HTML, TypeScript, React, Next.js, and deployment on Vercel.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
+			logo: "https://www.cdnlogo.com/logos/n/80/next-js.svg",
 
 			linkText: "View Project",
 			link: "https://my-habit-tracker-orcin.vercel.app/",
+		},
+		{
+			title: "LinkedIn Lookup in Gmail",
+			description:
+				"This Tampermonkey extension script adds user icons to both the email sender and recipient(s). The user icons allow for easy LinkedIn searches by name.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com/baradev/tampermonkey-linkedin-lookup",
 		},
 
 		{
@@ -57,14 +65,13 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://barbora-klu-blogr-nextjs-prisma.vercel.app/",
 		},
-
 		{
-			title: "LinkedIn Lookup in Gmail",
+			title: "ToDo App",
 			description:
-				"This Tampermonkey extension script adds user icons to both the email sender and recipient(s). The user icons allow for easy LinkedIn searches by name.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"The ToDo App allows users to create, update, and delete tasks. It's built with React on the frontend and written in TypeScript, with data stored in an SQLite database.",
+			logo: "https://www.cdnlogo.com/logos/r/63/react.svg",
 			linkText: "View Project",
-			link: "https://github.com/baradev/tampermonkey-linkedin-lookup",
+			link: "https://barbora-harakeke24-todo-app.devacademy.nz/",
 		},
 
 		{
