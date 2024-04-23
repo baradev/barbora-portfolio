@@ -170,6 +170,10 @@ function article_1() {
 										>
 											Visit MealEasy
 										</a>
+										<p>
+											Please note that the app is
+											desktop-only for now
+										</p>
 									</h3>
 								</div>
 							</section>
