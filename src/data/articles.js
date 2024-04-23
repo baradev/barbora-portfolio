@@ -146,9 +146,17 @@ function article_1() {
 									usually about the technical stuff. It's more
 									about how people interact and work together.
 								</p>
-								<div style={{ textAlign: "center" }}>
+								<div
+									style={{
+										textAlign: "center",
+										marginTop: "40px",
+									}}
+								>
 									<h3>
-										<a href="https://meal-easy.pushed.nz/">
+										<a
+											style={{ color: "green" }}
+											href="https://meal-easy.pushed.nz/"
+										>
 											Visit MealEasy
 										</a>
 									</h3>
