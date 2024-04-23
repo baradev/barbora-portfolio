@@ -128,10 +128,9 @@ function article_1() {
 
 								<h3>Whats's next?</h3>
 								<p>
-									We're working on deploying the project and
-									adding more features, such as adding custom
-									new recipes, managing budgets, and calorie
-									tracking.
+									We're working on adding more features, such
+									as adding custom new recipes, managing
+									budgets, and calorie tracking.
 								</p>
 
 								<h3>Conclusion</h3>
@@ -147,11 +146,11 @@ function article_1() {
 									usually about the technical stuff. It's more
 									about how people interact and work together.
 								</p>
-								<p>
+								<h4>
 									<a href="https://meal-easy.pushed.nz/">
 										Visit MealEasy
 									</a>
-								</p>
+								</h4>
 							</section>
 						</article>
 					</div>
