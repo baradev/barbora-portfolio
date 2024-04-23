@@ -136,9 +136,12 @@ function article_1() {
 
 								<h3>What's next?</h3>
 								<p>
-									We're working on adding more features, such
-									as adding custom new recipes, managing
-									budgets, and calorie tracking.
+									We're currently working on adding more
+									features, such as custom new recipe
+									creation, budget management, and calorie
+									tracking. Additionally, we are addressing
+									the responsiveness issues we've identified
+									on mobile devices.
 								</p>
 
 								<h3>Conclusion</h3>
