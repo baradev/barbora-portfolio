@@ -16,7 +16,6 @@ function article_1() {
 
                 .randImage {
                     align-self: center;
-                    outline: 2px solid red;
                     max-width: 100%; /* Ensure images don't overflow */
                 }
 
