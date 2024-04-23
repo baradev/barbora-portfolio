@@ -8,7 +8,7 @@ Hello there! I am Barbora, software developer with passion for frontend, design 
 
 ## Projects
 
-### [Meal Easy]()
+### [Meal Easy](https://meal-easy.pushed.nz/)
 
 Meal Planning app which I build with my team during my final project at DevAcademy.
 Meal Easy is React app with Node.js on the backend. Other used technologies include Typescript, Auth0, an External API, Tailwind, and a SQLite database.
