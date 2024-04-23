@@ -4,25 +4,39 @@ function article_1() {
 	return {
 		date: "20 April 2024",
 		title: "Meal Planning App - Dev Academy Final Project",
-		description: "Will my App make people's live easier?",
+		description: "Will my App make people's lives easier?",
 		keywords: [],
 		style: `
-				.article-content {
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-				}
+                .article-content {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    padding: 0 20px; /* Added padding */
+                }
 
-				.randImage {
-					align-self: center;
-					outline: 2px solid red;
-				}
-				`,
+                .randImage {
+                    align-self: center;
+                    outline: 2px solid red;
+                    max-width: 100%; /* Ensure images don't overflow */
+                }
+
+                .paragraph {
+                    font-size: 16px; /* Adjust font size for better readability */
+                    line-height: 1.6; /* Adjust line height for better spacing */
+                    text-align: justify; /* Justify text for better alignment */
+                }
+
+                /* Added media query for responsiveness */
+                @media only screen and (min-width: 768px) {
+                    .article-content {
+                        padding: 0 50px; /* Increase padding for larger screens */
+                    }
+                }
+                `,
 		body: (
 			<React.Fragment>
 				<div className="article-content">
 					<div className="paragraph">
-						{" "}
 						<article>
 							<section>
 								<p>
@@ -59,10 +73,7 @@ function article_1() {
 									<img
 										src="/appFrontPage.png"
 										alt="Landing Page"
-										style={{
-											width: "800px",
-											height: "auto",
-										}}
+										className="randImage"
 									/>
 								</div>
 
@@ -74,7 +85,7 @@ function article_1() {
 									meant different things to each of us. Before
 									building anything, we created a solid plan
 									and made sure we're all on the same page.
-									Using agile and regular check ups, we also
+									Using agile and regular check-ups, we also
 									made sure no one is going down a rabbit hole
 									and everyone remains focused on our Minimum
 									Viable Product (MVP). During this project I
@@ -100,14 +111,12 @@ function article_1() {
 									CSS and DaisyUI. All recipes come from a
 									third-party API (Edamam.com).
 								</p>
+
 								<div style={{ textAlign: "center" }}>
 									<img
 										src="/diagram.png"
-										alt="Landing Page"
-										style={{
-											width: "800px",
-											height: "auto",
-										}}
+										alt="Diagram"
+										className="randImage"
 									/>
 								</div>
 
@@ -126,7 +135,7 @@ function article_1() {
 									stretch goals!
 								</p>
 
-								<h3>Whats's next?</h3>
+								<h3>What's next?</h3>
 								<p>
 									We're working on adding more features, such
 									as adding custom new recipes, managing
