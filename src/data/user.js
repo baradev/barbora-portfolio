@@ -32,6 +32,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Label Generator - Amazon Rekognition",
+			description:
+				"Label Generator is a Python script that detects and labels objects, scenes, and faces in images. Tech Stack Python, Amazon Rekognition, S3 Bucket",
+			logo: "https://www.cdnlogo.com/logos/a/67/amazon-web-services.svg",
+			linkText: "View Project on GitHub",
+			link: "https://github.com/baradev/labels-generator",
+		},
+		{
 			title: "Meal Planning App - MealEasy",
 			description:
 				"MealEasy is an app that helps busy people with planning weekly dinners. Tech Stack React, Node.js, Typescript, Auth0, External API, Tailwind CSS, SQLite database. ",
