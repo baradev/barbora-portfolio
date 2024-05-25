@@ -9,7 +9,7 @@ const INFO = {
 	socials: {
 		github: "https://github.com/baradev",
 		linkedin: "https://www.linkedin.com/in/barboraklu",
-		instagram: "https://www.instagram.com/npm_install_unicorns",
+		instagram: "https://www.instagram.com/barbora.klusackova",
 	},
 
 	homepage: {

@@ -15,11 +15,20 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img src="" alt="" className="" />
+							<div className="work-title">Volition</div>
+							<div className="work-subtitle">
+								Frontend Developer
+							</div>
+							<div className="work-duration">2024 - present</div>
+						</div>
+
+						<div className="work">
+							<img src="" alt="" className="" />
 							<div className="work-title">Tim Warren - Axio</div>
 							<div className="work-subtitle">
 								JavaScript Developer
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">2023 - 2024</div>
 						</div>
 
 						<div className="work">
@@ -28,7 +37,7 @@ const Works = () => {
 								Doza - Youth Centre
 							</div>
 							<div className="work-subtitle">
-								Youth Centre Coordinator
+								Youth Centre Coordinator and Teacher
 							</div>
 							<div className="work-duration">2012 - 2016</div>
 						</div>
