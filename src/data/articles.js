@@ -123,6 +123,28 @@ function article_1() {
 										className="randImage"
 									/>
 								</div>
+								<h3>Tech Behind</h3>
+								<p>
+									Amplify Gen 2 introduces full support for
+									TypeScript, enhancing code maintainability,
+									readability, and productivity. Developers
+									can adopt a code-first approach to defining
+									backend resources, such as APIs, databases,
+									and authentication, directly in code using
+									declarative syntax. Sandboxes in Amplify
+									provide isolated development environments
+									for individual developers or teams, enabling
+									experimentation, iteration, and testing
+									without affecting shared environments.
+								</p>
+								<p> Bucket List's Architecture Diagram</p>
+								<div style={{ textAlign: "center" }}>
+									<img
+										src="/archdiagram.png"
+										alt="Architecture Diagram"
+										className="randImage"
+									/>
+								</div>
 
 								<h3>Conclusion</h3>
 								<p>
