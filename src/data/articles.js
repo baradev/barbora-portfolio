@@ -168,14 +168,6 @@ function article_1() {
 									experience, going from idea to app can be
 									really fast and effective.
 								</p>
-								<div style={{ textAlign: "center" }}>
-									<a
-										style={{ color: "teal" }}
-										href="https://main.d1wncvgqjhon0h.amplifyapp.com/signin"
-									>
-										Visit Bucket List App
-									</a>
-								</div>
 							</section>
 						</article>
 					</div>
