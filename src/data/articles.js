@@ -99,7 +99,7 @@ function article_1() {
 									/>
 								</div>
 
-								<h3>My approach to tackle this challenge.</h3>
+								<h3>My approach to tackle this challenge</h3>
 								<p>
 									I got the idea for the app from the tutorial
 									I bought - building a Bucket List App (which
@@ -139,12 +139,20 @@ function article_1() {
 									before you start experimenting with AWS
 									services.
 								</p>
+								<p>
+									Once I got started, I found that connecting
+									the backend with the frontend is easy with
+									AWS Amplify. If you have some coding
+									experience, going from idea to app can be
+									really fast and effective.
+								</p>
 								<div style={{ textAlign: "center" }}>
-									<img
-										src="/WishesList.png"
-										alt="Wish List"
-										className="randImage"
-									/>
+									<a
+										style={{ color: "teal" }}
+										href="https://main.d1wncvgqjhon0h.amplifyapp.com/signin"
+									>
+										Visit Bucket List App
+									</a>
 								</div>
 							</section>
 						</article>
