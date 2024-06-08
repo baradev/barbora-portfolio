@@ -168,12 +168,14 @@ function article_1() {
 									experience, going from idea to app can be
 									really fast and effective.
 								</p>
-								<a
-									style={{ color: "green" }}
-									href="https://docs.amplify.aws/"
-								>
-									📍 AWS Amplify documentation
-								</a>
+								<p>
+									<a
+										style={{ color: "green" }}
+										href="https://docs.amplify.aws/"
+									>
+										📍 AWS Amplify documentation
+									</a>
+								</p>
 								<a
 									style={{ color: "green" }}
 									href="https://main.d1wncvgqjhon0h.amplifyapp.com/signin"
