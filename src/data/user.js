@@ -32,6 +32,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Bucket List App - Amazon Amplify",
+			description:
+				"A platform where users can track and manage their wishes and goals. Tech Stack Typescript, Amazon Amplify, S3 Bucket, Dynamo DB, Amazon Cognito",
+			logo: "https://www.cdnlogo.com/logos/a/67/amazon-web-services.svg",
+			linkText: "View Project",
+			link: "https://main.d1wncvgqjhon0h.amplifyapp.com/signin",
+		},
+		{
 			title: "Label Generator - Amazon Rekognition",
 			description:
 				"Label Generator is a Python script that detects and labels objects, scenes, and faces in images. Tech Stack Python, Amazon Rekognition, S3 Bucket",
