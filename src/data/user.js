@@ -34,7 +34,7 @@ const INFO = {
 		{
 			title: "AI SAAS Platform",
 			description:
-				"Imaginify is an AI-powered app that enhances and edits your photos, allowing you to restore, recolor, remove objects, fill in missing parts, and remove backgrounds with ease, all while ensuring secure payments and easy photo searches.",
+				"An AI-powered app that enhances and edits your photos, allowing you to restore, recolor, remove objects, fill in missing parts, and remove backgrounds with ease, all while ensuring secure payments and easy photo searches.  Tech Stack Next.js, TypeScript, MongoDB, Clerk, Cloudinary, Stripe, Shadcn, TailwindCSS ",
 			logo: "https://www.cdnlogo.com/logos/n/80/next-js.svg",
 			linkText: "View Project",
 			link: "https://saas-platform-ten.vercel.app/",
