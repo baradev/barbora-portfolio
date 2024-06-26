@@ -32,6 +32,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "AI SAAS Platform",
+			description:
+				"Imaginify is an AI-powered app that enhances and edits your photos, allowing you to restore, recolor, remove objects, fill in missing parts, and remove backgrounds with ease, all while ensuring secure payments and easy photo searches.",
+			logo: "https://www.cdnlogo.com/logos/n/80/next-js.svg",
+			linkText: "View Project",
+			link: "https://saas-platform-ten.vercel.app/",
+		},
+		{
 			title: "Bucket List App - Amazon Amplify",
 			description:
 				"A platform where users can track and manage their wishes and goals. Tech Stack Typescript, Amazon Amplify, S3 Bucket, Dynamo DB, Amazon Cognito",
