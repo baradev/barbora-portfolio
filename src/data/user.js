@@ -15,13 +15,13 @@ const INFO = {
 	homepage: {
 		title: "Full-stack software developer.",
 		description:
-			"Hello there! I am Barbora, software developer with passion for frontend, design and AWS cloud.",
+			"Hello there! I am Barbora, a software developer and community builder.",
 	},
 
 	about: {
 		title: "I am Barbora. I live in Auckland.",
-		description: `I enjoy working with React and Next.js and I love desing.
-      I have experience with Typescript, Tailwind, Node.js, and more. I am passionate about the AWS Cloud, like experimenting with Amazon Connect, and hold an AWS Solutions Architect Certification. In my daily life, I appreciate when aesthetics complement functionality. This same principle guides my approach to the products I develop with my code.`,
+		description: `I enjoy working with React, Next.js and AWS Cloud.
+      I have experience with Typescript, Tailwind, Node.js, and more. I am a passionate community builder and advocate for helping others start their journey in tech.`,
 	},
 
 	articles: {
