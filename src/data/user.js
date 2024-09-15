@@ -10,6 +10,7 @@ const INFO = {
 		github: "https://github.com/baradev",
 		linkedin: "https://www.linkedin.com/in/barboraklu",
 		instagram: "https://www.instagram.com/barbora.klusackova",
+		devto: "https://dev.to/barbora_klusackova",
 	},
 
 	homepage: {
