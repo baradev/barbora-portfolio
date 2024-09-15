@@ -110,10 +110,10 @@ const INFO = {
 		{
 			title: "Good First Issue - project in development",
 			description:
-				"A platform where graduates and junior developers gain coding experience by contributing to open-source projects. Tech Stack Rect, Next.js, Typescript, Tailwind CSS, External API, Postgres Database, Node.js",
+				"A platform where graduates and junior developers gain coding experience by contributing to open-source projects. Tech Stack Rect, Next.js, Typescript, Tailwind CSS, External API, Amazon Amplify",
 			logo: "https://www.cdnlogo.com/logos/t/96/typescript.svg",
 			linkText: "View Project on GitHub",
-			link: "https://github.com/baradev/good-first-issue",
+			link: "https://github.com/baradev/gfi",
 		},
 	],
 };
