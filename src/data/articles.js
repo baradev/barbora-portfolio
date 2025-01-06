@@ -2,7 +2,7 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "07 June 2024",
+		date: "07 June 2024, Barbora Klusackova",
 		title: "Bucket List App - AWS Amplify",
 		description:
 			"The Bucket List App project is designed for learning purposes, specifically to explore and understand AWS Amplify.",
