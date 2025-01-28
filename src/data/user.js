@@ -41,12 +41,12 @@ const INFO = {
 			link: "https://saas-platform-ten.vercel.app/",
 		},
 		{
-			title: "Bucket List App - Amazon Amplify",
+			title: "Motivator - Goal List App - Amazon Amplify",
 			description:
 				"A platform where users can track and manage their wishes and goals. Tech Stack Typescript, Amazon Amplify, S3 Bucket, Dynamo DB, Amazon Cognito",
 			logo: "https://www.cdnlogo.com/logos/a/67/amazon-web-services.svg",
 			linkText: "View Project",
-			link: "https://main.d1wncvgqjhon0h.amplifyapp.com/signin",
+			link: "https://main.d3omoi882wuzyi.amplifyapp.com/",
 		},
 		{
 			title: "Label Generator - Amazon Rekognition",
