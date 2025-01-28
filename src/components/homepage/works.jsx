@@ -17,9 +17,27 @@ const Works = () => {
 							<img src="" alt="" className="" />
 							<div className="work-title">Volition</div>
 							<div className="work-subtitle">
-								Frontend Developer
+								Full Stack Developer
 							</div>
 							<div className="work-duration">2024 - present</div>
+						</div>
+						<div className="work">
+							<img src="" alt="" className="" />
+							<div className="work-title">
+								AWS Tools And Programming
+							</div>
+							<div className="work-subtitle">
+								Meetup Organizer
+							</div>
+							<div className="work-duration">2024 - present</div>
+						</div>
+						<div className="work">
+							<img src="" alt="" className="" />
+							<div className="work-title">Dev Academy</div>
+							<div className="work-subtitle">
+								Human Skills Teacher and Facilitator
+							</div>
+							<div className="work-duration">2024</div>
 						</div>
 
 						<div className="work">
