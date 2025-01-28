@@ -90,14 +90,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://barbora-klu-blogr-nextjs-prisma.vercel.app/",
 		},
-		{
-			title: "ToDo App",
-			description:
-				"The ToDo App allows users to create, update, and delete tasks. Tech Stack React, TypeScript, CSS, HTML, SQLite database.",
-			logo: "https://www.cdnlogo.com/logos/r/63/react.svg",
-			linkText: "View Project",
-			link: "https://barbora-harakeke24-todo-app.devacademy.nz/",
-		},
 
 		{
 			title: "Simon Game",
