@@ -61,8 +61,6 @@ const INFO = {
 			description:
 				"MealEasy is an app that helps busy people with planning weekly dinners. Tech Stack React, Node.js, Typescript, Auth0, External API, Tailwind CSS, SQLite database. ",
 			logo: "https://www.cdnlogo.com/logos/r/63/react.svg",
-			linkText: "View Project",
-			link: "https://meal-easy.pushed.nz/",
 		},
 		{
 			title: "Habit Tracker",
