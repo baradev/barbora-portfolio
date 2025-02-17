@@ -353,20 +353,7 @@ function article_2() {
 										textAlign: "center",
 										marginTop: "40px",
 									}}
-								>
-									<h3>
-										<a
-											style={{ color: "green" }}
-											href="https://meal-easy.pushed.nz/"
-										>
-											Visit MealEasy
-										</a>
-										<p>
-											Please note that the app is
-											desktop-only for now
-										</p>
-									</h3>
-								</div>
+								></div>
 							</section>
 						</article>
 					</div>
